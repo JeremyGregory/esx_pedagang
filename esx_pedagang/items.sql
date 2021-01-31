@@ -1,0 +1,14 @@
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('alface', '??Alface', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('alho', '??Alho', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('carnep', '??Carne Picada', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('hamb', '??Hamburguer', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('manteiga', '??Manteiga', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('oregaos', '??Oregaos', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('ovo', '??Ovo', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('ovoes', '??Ovo estrelado', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('polvo', '??Polvo Cru', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('polvogre', '??Polvo Grelhado', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('queijo', '??Queijo', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('tomate', '??Tomate', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('vitela', '??Vitela Crua', -1, 0, 1);
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('vitelaass', '??Vitela Assada', -1, 0, 1);
